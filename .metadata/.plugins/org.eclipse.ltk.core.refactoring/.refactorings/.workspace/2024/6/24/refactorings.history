@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename resource &apos;SpringJPAProj-03-JPARepository-jobSeeker-Oracle&apos; to &apos;SpringJPAProj-04-JPARepository-jobSeeker-Oracle&apos;" description="Rename resource &apos;SpringJPAProj-03-JPARepository-jobSeeker-Oracle&apos;" flags="7" id="org.eclipse.ltk.core.refactoring.rename.resource" input="/SpringJPAProj-03-JPARepository-jobSeeker-Oracle" name="SpringJPAProj-04-JPARepository-jobSeeker-Oracle" stamp="1717925689685" updateReferences="true"/>
+</session>
